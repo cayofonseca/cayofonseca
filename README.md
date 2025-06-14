@@ -68,14 +68,6 @@ Com uma Licenciatura em Física pela UEFS como alicerce, que me proporcionou uma
 
 <img 
     align="left" 
-    alt="NestJS"
-    title="NestJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_168087.png" 
-/>
-<img 
-    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -89,14 +81,6 @@ Com uma Licenciatura em Física pela UEFS como alicerce, que me proporcionou uma
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 <img 
