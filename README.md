@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Sobre:
 Desenvolvedor FullStack<br><br>Com uma Licenciatura em Física pela UEFS como alicerce, que me proporcionou uma robusta capacidade analítica e uma abordagem estruturada para a resolução de problemas complexos, estou em uma estimulante transição de carreira para a Tecnologia. Minha jornada atual em Análise e Desenvolvimento de Sistemas reflete meu compromisso em dominar o desenvolvimento Web, especialmente dentro do ecossistema JavaScript, com o objetivo de criar aplicações que façam a diferença.
 
 
